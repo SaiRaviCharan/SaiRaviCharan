@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @SaiRaviCharan
 <!-- README.md -->
 
 <!-- GitHub Profile README -->
@@ -8,14 +7,14 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="70%" alt="Welcome animation"/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="60%" alt="Funny dev gif"/>
 </p>
 
 ---
 
 ## 🌟 About Me
 
-I'm **Mr....**, a passionate **Software Engineer**, **AI Practitioner**, and **Automation Architect**. I thrive on transforming innovative ideas into intelligent, scalable, and production-ready systems. I enjoy simplifying complexity with code and empowering teams with technology.
+I'm ** Sai Ravi Charan**, a passionate **Software Engineer**, **AI Practitioner**, and **Automation Architect**. I thrive on transforming innovative ideas into intelligent, scalable, and production-ready systems. I enjoy simplifying complexity with code and empowering teams with technology.
 
 ⚙️ **What I do:**
 - 🚀 Build robust full-stack applications
@@ -140,7 +139,7 @@ I'm **Mr....**, a passionate **Software Engineer**, **AI Practitioner**, and **A
 <h3 align="center">Thanks for visiting 🚀 Let's innovate together.</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="500" alt="Inspiration gif" />
+  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="450" alt="Funny coder gif 2" />
 </p>
 
 ---
