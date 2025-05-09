@@ -3,12 +3,13 @@
 <!-- GitHub Profile README -->
 
 <h1 align="center">
-  <span style="font-size:40px">👋 Hello! I'm Mr....</span>
+  <span style="font-size:40px">👋 Hello! I'm Sai Ravi Charan</span>
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="60%" alt="Funny dev gif"/>
+  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASkAAACpCAMAAABAgDvcAAABIFBMVEVKSEv/cRf/bBz/dxT9fw//eRL/bxr/Wib+DFv/GFP/fQ5jQiv+LEdJSUv8Zh9BSlT+Oj3+Elf/gADjjD3/Uiz/HVD/SzFNSEf/XyP+MUJTRkn+Vio6R0r/Pjr/AGBETEqnJlgZVE6CQC+TPk35Rjj0JEqZKD5bRk3/STbART39JkhBRktcSkqEYVhMV2C4TCDkM1ZuP0OcWkL7Th5yPknwax1kW1yYYFGgb0uaXkmja031ii5QQ0BZPTPXh0vnbSZ6PzaqZ0FcRDzuZC3rUDexUU7HT0v0SEHbNk2WPlDMIVY5TEmHUDW5VCCtRCR5VEz5gCOFUkLdbS1xQjrMSj51PD20SDtnQ0L9NTDgLkeeOUzWG1HBbUHNWydlSznWUxJLMn+DAAACr0lEQVR4nO3ab1MSQRzA8eM4oYjlEEMQD638A7FaeqVmUZqVWWZGWGRZvf930e6deKee09XYYMf380SHuQfnd3Z19zcaBgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGF4yZNDvcpWJ1TX3kbu+7q656667Kgb9PleUEPLxk1KpZFlWLjeSTmUybltWBv1WV1HFfvpMZ7JG0ulUKmOa5sYmqypKxb4xpkrlRk5KFe4IUkWgVFyUiotScVEqLkrFRam4KBUXpeKiVFwXlBJh/pPi/GfnH0owde87W2pT3ZprC4GKziCN/kcNpeaFEY2QxLcSsv3cmySoWOl0JmWae1t2bfFFtZrNTk7eVMZfvqpJsbD9ul4vFosTExP5fGtnxjGcNzvl8nVldPSa8nY36akM2X6357nved8Wxn6h2i81rjTvit3t2X4oL9Vcb3dmqeWVGvVKTU3dqk0P+kf5t9SvGMcJzTydaWEsqlLZqr+m/FLObFAqr0vN355ZKg9XKbWo7HshtvRL9Xdfv1Rz6EtVZGfM+uBZ0QodQ1IqgpBbeuapJ8Pqb1/KLJgfu5SKcnyesnKh8xS7L0q/1KmT5+lSTUppJ2f03IWlWFMeSsUVr5TkPPWna6pIKb9UKigVnNGblNKipi6RtxlVqs7uOzuf2j+/+w5mw2sqP/dpaEsdnzwz/iSvo0NlHyg61eeGlL2D+hfluNXhvGM4Xw9brWDs8s1J+NTlZE2lwzNP2VOWe55uz9CTvFpvOdAQegjReBhiJDxU1Mzz7HTYf1B9I6W8cDic9E6GHuQdlUrhe9/3Lv+XF03+OLKCocvKz27i99HfEsKxbVtPO32SUL9BIAAYYuLUFwCXbhgudZeDUjERKjZKAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP+RX85rogSCgEauAAAAAElFTkSuQmCC" width="60%" alt="Custom Image"/>
 </p>
+
 
 ---
 
