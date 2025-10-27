@@ -1,7 +1,7 @@
-<!-- Animated GitHub Profile README for Sai Ravi Charan -->
+<!-- A+ Grade GitHub Profile README for Sai Ravi Charan -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=2800&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Hey+there!+👋;I'm+Sai+Ravi+Charan!;AI+Automation+%7C+Machine+Learning+Engineer;Building+Smarter+Futures+with+AI+🤖" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=2800&pause=1000&color=00C8FF&center=true&vCenter=true&width=650&lines=Hey+there!+👋;I'm+Sai+Ravi+Charan!;AI+Automation+Engineer+%7C+Machine+Learning+Developer;Frontend+Developer+%7C+Tech+Innovator" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -10,148 +10,127 @@
 
 ---
 
-## 🌟 About Me  
+## 🌟 About Me
 
-🚀 **AI Automation & ML Engineer** passionate about transforming ideas into intelligent, scalable systems that simplify life and enhance human creativity.  
-I love working across **AI, Automation, and Full-Stack Development** to craft solutions that merge intelligence with design.  
+I'm **Sai Ravi Charan**, an enthusiastic **AI Automation Engineer**, **Machine Learning Developer**, and **Frontend Developer** passionate about building scalable, intelligent, and beautifully designed digital experiences.  
+I specialize in blending **AI intelligence with interactive web systems** to create automation that simplifies life and accelerates innovation.
 
-🎯 **Focused On:**
-- 🤖 AI Workflow Automation & Intelligent Agents  
-- 🧠 Generative AI & LLM-based Systems  
-- 🖼️ Image Processing using Stable Diffusion + ComfyUI  
-- 🧩 Seamless AI + Frontend + Backend Integration  
-- ⚙️ Real-world Automation Systems  
+🚀 **What I Build**
+- AI-powered automation workflows and smart assistants  
+- Generative AI & LangChain-driven automation systems  
+- Responsive, dynamic web apps using React.js & Tailwind CSS  
+- Real-time AI image generation and NLP-based tools  
+- Full-stack applications integrated with cloud APIs  
 
-💡 **Vision:**  
-> “AI should make life simpler, smarter, and more creative — not complicated.”
+💡 **Philosophy:**  
+> “Innovation lies in making intelligence accessible — through automation, design, and empathy.”
 
 ---
 
-## ⚙️ Tech Toolbox  
+## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nextjs,tailwind,html,css,nodejs,express,mysql,mongodb,git,github,tensorflow,pytorch,opencv,flask,vscode,vercel,netlify&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,react,nextjs,tailwind,js,html,css,nodejs,express,mysql,mongodb,git,github,tensorflow,pytorch,opencv,flask,vscode,vercel,netlify,figma&theme=light" />
 </p>
 
 ---
 
-## 🧠 Featured Projects  
-
-### 🧾 **ResumeGrader – AI Resume Analyzer**  
-[🔗 Live Demo](https://resumegrader.vercel.app)
-- Built an AI-based resume parser using GPT evaluation.  
-- Increased candidate–job match accuracy by **25%** using automated keyword extraction.  
-- Stack: React.js, Tailwind, Zustand, Puter.js  
-
----
-
-### 💬 **RAG Chatbot – Vector Search & Document Intelligence**  
-[🔗 Live Demo](https://ragchatbotnext.vercel.app)
-- Built using **Next.js, LangChain, Neon DB, HNSW indexing**.  
-- 90%+ retrieval accuracy, sub-100ms response time.  
-- Implemented streaming chat, caching, role-based auth.  
-
----
-
-### 🎨 **AI Image Generation – Stable Diffusion + ComfyUI**  
-[🔗 Repo](https://github.com/SaiRaviCharan/MACHINE_LEARNING-_PROJECTS/tree/main/ML%20MODELS)
-- Generated ultra-realistic images using **Stable Diffusion + ComfyUI**.  
-- Custom prompt engineering & Img2Img transformations.  
-- Automated with **Python, Flask, Gradio**, GPU-accelerated pipelines.  
-
----
-
-## 🧰 Technical Skills  
+## 🧠 Core Expertise
 
 | Category | Skills |
 |:--|:--|
-| **AI & Automation** | Python, LangChain, RAG Systems, Prompt Engineering, Workflow Automation |
-| **Frontend** | React.js, Tailwind CSS, Next.js (Basic), Zustand, GSAP, Framer Motion |
-| **Backend & Tools** | Node.js (Basic), Express.js (Basic), MySQL, MongoDB (Basic), Git, Netlify, Vercel |
-| **Others** | API Integration, Streamlit, Excel, Documentation, Team Collaboration |
+| **AI & Automation** | Python, LangChain, Generative AI, RAG Systems, Prompt Engineering, Workflow Automation |
+| **Frontend Development** | React.js, Tailwind CSS, Next.js, Zustand, GSAP, Framer Motion |
+| **Backend & Tools** | Node.js, Express.js, MySQL, MongoDB, Git, Netlify, Vercel |
+| **Others** | Streamlit, API Integration, Microsoft Excel, Documentation, Team Collaboration |
 
 ---
 
 ## 💼 Experience  
 
-**🔹 Tamizhan Skills – Machine Learning Intern**  
-*(Jun 2025 – Jul 2025)*  
-- Preprocessed and visualized datasets using Pandas & Matplotlib.  
-- Improved training efficiency by **30%**.  
-[📜 Certificate](https://www.dropbox.com/scl/fi/3m6afbsptsl9ka3r0uwdr/TS-RISE-MLAI-2762-Intern-Certification.png?dl=1)
+### 🧩 **Tamizhan Skills – Machine Learning Intern**  
+📍 *Remote | Jun 2025 – Jul 2025*  
+[📜 Certificate](https://www.dropbox.com/scl/fi/3m6afbsptsl9ka3r0uwdr/TS-RISE-MLAI-2762-Intern-Certification.png?dl=1)  
+- Built and trained machine learning models using Python, Pandas, and Matplotlib.  
+- Enhanced model performance by **30%** through improved preprocessing and visualization.  
+- Contributed to automation workflows optimizing dataset efficiency.  
 
-**🔹 Microsoft & SAP – AICTE Tech Saksham Intern**  
-*(Jan 2025 – Feb 2025)*  
-- Trained ML models and built image generation workflows using Stable Diffusion.  
-- Applied prompt engineering to generate artistic images.  
-[📜 Certificate](https://www.dropbox.com/scl/fi/oy9p2rjbfo2445lbqmfqq/SAI-RAVI-CHARAN-NEERUMALLA_certificate.pdf?dl=0)
+### 💡 **Microsoft & SAP – Tech Saksham AI Intern (AICTE)**  
+📍 *Remote | Jan 2025 – Feb 2025*  
+[📜 Certificate](https://www.dropbox.com/scl/fi/oy9p2rjbfo2445lbqmfqq/SAI-RAVI-CHARAN-NEERUMALLA_certificate.pdf?dl=0)  
+- Created AI-driven image generation system using **Stable Diffusion** and **ComfyUI**.  
+- Applied **prompt engineering** for better output control and visual creativity.  
+- Developed a real-world automation solution integrated with cloud deployment.  
+
+---
+
+## 🎯 Projects  
+
+### 🧾 **ResumeGrader – AI Resume Tracker**
+🔗 [Live Demo](https://Resumegrader.vercel.app)  
+- Built AI-powered resume analyzer improving job match accuracy by **25%**.  
+- Automated parsing and ATS feedback using GPT models.  
+- Stack: React.js, Tailwind CSS, Zustand, Puter.js, Vite.  
+
+---
+
+### 💬 **RAG Chatbot – Vector Search & Document Intelligence**
+🔗 [Live Demo](https://ragchatbotnext.vercel.app)  
+- Designed intelligent chatbot using **LangChain**, **Neon**, and **AI-SDK**.  
+- Achieved **90%+ retrieval accuracy** and sub-100ms semantic search.  
+- Implemented Clerk Auth & responsive frontend UI for smooth experience.  
+
+---
+
+### 🎨 **AI Image Processing – Stable Diffusion + ComfyUI**
+🔗 [Repo](https://github.com/SaiRaviCharan/MACHINE_LEARNING-_PROJECTS/tree/main/ML%20MODELS)  
+- Developed image generation system with **ComfyUI** & **Stable Diffusion**.  
+- Supported **prompt-to-image** and **image-to-image** transformations.  
+- Implemented an interactive Gradio + Flask workflow for creative image rendering.  
 
 ---
 
 ## 🏅 Certifications  
 
-🎓 **Google – Machine Learning Fundamentals**  
-💻 **Microsoft Career Essentials in AI**  
-⚙️ **GeeksforGeeks – AI Agent & Automation**  
-🤖 **Udemy – AI Agent Development & Workflow Automation**  
-🧩 **Tech Saksham (Microsoft + SAP) – AI Internship Certification**
+| Certificate | Organization | Link |
+|:--|:--|:--|
+| Google – Machine Learning Foundations | Google | [View](#) |
+| Microsoft Career Essentials in AI | Microsoft | [View](#) |
+| GeeksforGeeks – AI Agent & Automation | GeeksforGeeks | [View](#) |
+| Udemy – AI Agents & Automation Workflow | Udemy | [View](#) |
+| Tech Saksham – AI Internship Program | Microsoft + SAP | [View](#) |
 
 ---
 
 ## 🏆 Achievements  
 
-- 🧑‍💻 Contributed to **Devtown** community projects and received recognition.  
-- 🧠 Led teams in hackathons and technical competitions.  
-- 🏅 Served as **School SPL (Student Leader)** and organized tech events.  
+- 🌐 **Contributed to Devtown** community’s growth and earned certification of recognition.  
+- 🧠 **Led a tech quiz team** and coordinated AI-based innovation challenges.  
+- 🏅 **Appointed as School SPL**, fostering leadership and collaboration among peers.  
 
 ---
 
 ## 🎨 Hobbies & Interests  
 
-🌱 Exploring new technologies and creative AI systems  
-🧩 Building automation tools & experimenting with AI workflows  
-✈️ Traveling, exploring new cultures, and learning through experience  
+- 🚀 Exploring new technologies & automation tools  
+- 🎮 Creating AI-assisted visuals & frontend prototypes  
+- 💬 Collaborating on open-source & innovation projects  
 
 ---
 
-## 💬 Personal Details  
-
-📍 **Location:** Vadodara, Gujarat, India  
-📞 **Phone:** +91 9949496327  
-📧 **Emails:**  
-- neerumallasairavicharan@gmail.com  
-- sairavicharan.n@gmail.com  
-- 2203031240937@paruluniversity.ac.in  
-🏫 **Education:** B.Tech – CSE (AI), Parul University (2022–2026)  
-🗣️ **Languages:** English, Telugu, Hindi, Japanese (JLPT N5)  
-
----
-
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SaiRaviCharan&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SaiRaviCharan&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiRaviCharan&theme=tokyo-night" />
-</p>
-
----
-
-## 🤝 Connect with Me  
+## 📫 Connect With Me  
 
 <p align="center">
   <a href="https://linkedin.com/in/sai-ravi-charan-neerumalla-b04740278"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="mailto:neerumallasairavicharan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/SaiRaviCharan"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/></a>
+  <a href="https://github.com/SaiRaviCharan"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-<h3 align="center">⚡ “Automation is not just technology — it's creativity at scale.” ⚡</h3>
+<h3 align="center">✨ Building the Future with AI & Frontend Innovation 🚀</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="AI coder gif"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="450" alt="Developer animation" />
 </p>
+
