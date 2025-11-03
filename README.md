@@ -1,7 +1,7 @@
 <!-- A+ Grade GitHub Profile README for Sai Ravi Charan -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=2800&pause=1000&color=00C8FF&center=true&vCenter=true&width=650&lines=Hey+there!+👋;I'm+Sai+Ravi+Charan!;AI+Automation+Engineer+%7C+Machine+Learning+Developer;Frontend+Developer+%7C+Tech+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=2800&pause=1000&color=00C8FF&center=true&vCenter=true&width=650&lines=Hey+there!+👋;I'm+Sai+Ravi+Charan!;AI+Automation+Engineer+%7C+MACHINE+LEARNING+Developer;Frontend+Developer+%7C+Tech+Innovator" alt="Typing SVG" />
 </h1>
 
 <p align="center">
